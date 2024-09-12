@@ -2,3 +2,4 @@
 Programmēšana 10.-12.klasei
 hello world
 hi
+hi
