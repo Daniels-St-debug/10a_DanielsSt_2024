@@ -2,4 +2,5 @@
 Programmēšana 10.-12.klasei
 hello world
 hi
+yes
 <img src="tree.jpeg">
